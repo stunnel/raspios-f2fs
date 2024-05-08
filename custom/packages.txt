@@ -1,0 +1,9 @@
+# Lines starting with # are comments and will be ignored
+# Add the names of packages here
+# Separate packages with a new line or spaces
+
+# Example(without the #):
+#vim
+#screen
+#dnsutils
+#ifmetric
